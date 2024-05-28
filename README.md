@@ -1,1 +1,1 @@
-https://missquriky.github.io/
+<https://missquriky.github.io/>
