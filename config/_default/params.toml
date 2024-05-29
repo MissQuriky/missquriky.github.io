@@ -25,10 +25,10 @@ favicon        = "/favicon.png"
         src     = "img/avatar.png"
 
 [article]
-    headingAnchor = false
+    headingAnchor = true
     math          = false
     readingTime   = true
-    toc           = false
+    toc           = true
 
     [article.license]
         enabled = false
