@@ -1,0 +1,41 @@
+{
+    "[markdown]": {
+        "editor.formatOnSave": false
+    },
+
+    "cSpell.words": ["Barhate", "Purva"],
+
+    "editor.insertSpaces": false,
+    "files.exclude": {
+        ".build": true,
+        ".git": true
+    },
+    "files.insertFinalNewline": true,
+    "files.trimTrailingWhitespace": true,
+    "git.branchProtection": ["main"],
+    "git.branchProtectionPrompt": "alwaysCommitToNewBranch",
+    "git.branchRandomName.enable": true,
+    "git.ignoreLimitWarning": true,
+    "git.mergeEditor": false,
+    "git.pullBeforeCheckout": true,
+    "workbench.colorCustomizations": {
+        "activityBar.activeBackground": "#667061",
+        "activityBar.background": "#667061",
+        "activityBar.foreground": "#e7e7e7",
+        "activityBar.inactiveForeground": "#e7e7e799",
+        "activityBarBadge.background": "#87a2d7",
+        "activityBarBadge.foreground": "#15202b",
+        "commandCenter.border": "#e7e7e799",
+        "sash.hoverBorder": "#667061",
+        "statusBar.background": "#4d5549",
+        "statusBar.foreground": "#e7e7e7",
+        "statusBarItem.hoverBackground": "#667061",
+        "statusBarItem.remoteBackground": "#4d5549",
+        "statusBarItem.remoteForeground": "#e7e7e7",
+        "titleBar.activeBackground": "#4d5549",
+        "titleBar.activeForeground": "#e7e7e7",
+        "titleBar.inactiveBackground": "#4d554999",
+        "titleBar.inactiveForeground": "#e7e7e799"
+    },
+    "peacock.color": "#4d5549"
+}
