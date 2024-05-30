@@ -8,7 +8,7 @@ favicon        = "/favicon.ico"
 
 [footer]
     since      = 2024
-    customText = "Art, Life and More!"
+    customText = "Just another artist painting her dreams with you all"
 
 [dateFormat]
     published   = "Jan 02, 2006"
@@ -16,7 +16,7 @@ favicon        = "/favicon.ico"
 
 [sidebar]
     emoji    = "🙈"
-    subtitle = "Art, Life and More!!"
+    subtitle = "Just another artist painting her dreams with you all!"
     # compact  = true
 
     [sidebar.avatar]
