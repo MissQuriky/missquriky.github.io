@@ -10,6 +10,4 @@ comments: true
 draft: false
 ---
 
-Stay tuned for the (hopefully) not-so-awkward journey ahead!
-
 > Warning: May contain excessive amounts of enthusiasm (and typos).
